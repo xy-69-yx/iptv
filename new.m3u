@@ -8,3 +8,15 @@ https://fl41.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Sports",Star Sports 1 Hindi
 http://116.90.120.149:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Star_Sports_HD1_logo.png" group-title="Sports",Star Sports 1 HD
+http://116.90.120.149:8000/play/a0ba/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Star_Gold_HD_logo.png" group-title="Movies",Star Gold HD
+http://116.90.120.149:8000/play/a0c2/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2" tvg-name="Star Gold 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Star_Gold_2_logo.png" group-title="Movies",Star Gold 2
+http://116.90.120.149:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/StarPlus_2022_logo.png" group-title="Entertainment",Star Plus
+http://116.90.120.149:8000/play/a0b9/index.m3u8
