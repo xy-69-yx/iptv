@@ -6,6 +6,9 @@ https://fl41.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="WillowCricket" tvg-name="Willow Cricket 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkC9ruJzOkje_zvOvNqOvZ5wHEEJdJskXNg&s" group-title="Sports",Willow Cricket 2
 https://fl41.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
+#EXTINF:-1 tvg-id="WillowCricketAlt" tvg-name="Willow Cricket (Alt Source)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkC9ruJzOkje_zvOvNqOvZ5wHEEJdJskXNg&s" group-title="Sports",Willow Cricket (Alt Source)
+https://top2.newkso.ru/wmsxx.php?test=true&name=betpakisch11&number=1
+
 #EXTINF:-1 tvg-id="StarSports1Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://wclegends.uk/wp-content/uploads/2025/07/star-sports-hindi-hd-WCL-2025-Broadcaster.webp" group-title="Sports",Star Sports 1 Hindi
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 
