@@ -12,6 +12,9 @@ http://116.90.120.149:8000/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Star_Sports_2_logo.png" group-title="Sports",Star Sports 2 Hindi
 http://116.90.120.149:8000/play/a0cs/index.m3u8
 
+#EXTINF:-1 tvg-id="StarSports2Hd" tvg-name="Star Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Star_Sports_2_logo.png" group-title="Sports",Star Sports 2 Hindi
+http://87.255.35.150:18828
+
 #EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Star_Gold_HD_logo.png" group-title="Movies",Star Gold HD
 http://116.90.120.149:8000/play/a0c2/index.m3u8
 
@@ -20,8 +23,3 @@ http://116.90.120.149:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/StarPlus_2022_logo.png" group-title="Entertainment",Star Plus
 http://116.90.120.149:8000/play/a0b9/index.m3u8
-
-#EXTINF:-1  tvg-id="Star.Sports.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="DaddyLive Global Sports",Star Sports 1 IN
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium267%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-#EXTINF:-1  tvg-id="Star.Sports.Hindi.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="DaddyLive Global Sports",Star Sports Hindi IN
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium268%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
