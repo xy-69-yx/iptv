@@ -23,3 +23,7 @@ http://116.90.120.149:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/StarPlus_2022_logo.png" group-title="Entertainment",Star Plus
 http://116.90.120.149:8000/play/a0b9/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Brisbane Heat vs Adelaide Strikers" group-title="Cricket",Brisbane Heat vs Adelaide Strikers
+https://lb9.strmd.top/secure/IrrokQIWVlDjTiFSvXxSaanYOjbEonsA/charlie/stream/brisbane-heat-vs-adelaide-strikers-1629470581/1/playlist.m3u8|Origin=https://embedsports.top&Referer=https://embedsports.top/&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
