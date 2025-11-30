@@ -27,3 +27,11 @@ http://116.90.120.149:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-name="Brisbane Heat vs Adelaide Strikers" group-title="Cricket",Brisbane Heat vs Adelaide Strikers
 https://lb9.strmd.top/secure/IrrokQIWVlDjTiFSvXxSaanYOjbEonsA/charlie/stream/brisbane-heat-vs-adelaide-strikers-1629470581/1/playlist.m3u8|Origin=https://embedsports.top&Referer=https://embedsports.top/&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
+
+
+
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
+#EXTINF:-1,Brisbane Heat vs Adelaide Strikers
+https://lb9.strmd.top/secure/IrrokQIWVlDjTiFSvXxSaanYOjbEonsA/charlie/stream/brisbane-heat-vs-adelaide-strikers-1629470581/1/playlist.m3u8
